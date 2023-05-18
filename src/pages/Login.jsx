@@ -1,5 +1,7 @@
 import React from 'react'
 
+// create a react form ? 
+
 const Login = () => {
   return (
     <div>
@@ -7,7 +9,7 @@ const Login = () => {
       <form>
         <input type="email" placeholder="Email" />
         <input type="password" placeholder="Password" />
-        <p>Do not have an account? Sign-up</p>
+        <p>Do not have an account?</p>
       </form>
     </div>
   )
